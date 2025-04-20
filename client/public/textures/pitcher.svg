@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pitcher body -->
+  <path d="M160 128L352 128C384 128 416 160 416 192L416 352C416 416 352 480 288 480L224 480C160 480 96 416 96 352L96 192C96 160 128 128 160 128Z" fill="#D2B48C"/>
+  
+  <!-- Pitcher rim -->
+  <path d="M160 128L352 128C384 128 416 160 416 192L352 192C320 192 288 160 256 160L192 160C160 160 128 192 96 192L96 192C96 160 128 128 160 128Z" fill="#A0522D"/>
+  
+  <!-- Highlight on side -->
+  <path d="M160 128L160 480L224 480C288 480 352 416 352 352L352 128L160 128Z" fill="#DEB887" opacity="0.5"/>
+  
+  <!-- Water inside -->
+  <path d="M128 320C128 320 192 304 256 304C320 304 384 320 384 320L384 416C384 448 352 480 320 480L192 480C160 480 128 448 128 416L128 320Z" fill="#1E90FF" opacity="0.6"/>
+  
+  <!-- Water surface -->
+  <ellipse cx="256" cy="320" rx="128" ry="32" fill="#87CEFA" opacity="0.7"/>
+  
+  <!-- Texture/pattern -->
+  <path d="M144 192C144 192 176 224 256 224C336 224 368 192 368 192" stroke="#8B4513" stroke-width="8" opacity="0.5"/>
+  <path d="M128 256C128 256 176 288 256 288C336 288 384 256 384 256" stroke="#8B4513" stroke-width="8" opacity="0.5"/>
+</svg>

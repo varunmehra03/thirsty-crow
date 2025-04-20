@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body -->
+  <ellipse cx="256" cy="256" rx="160" ry="128" fill="#111111"/>
+  
+  <!-- Head -->
+  <circle cx="352" cy="208" r="64" fill="#222222"/>
+  
+  <!-- Eyes -->
+  <circle cx="376" cy="192" r="12" fill="white"/>
+  <circle cx="380" cy="192" r="6" fill="black"/>
+  
+  <!-- Beak -->
+  <path d="M416 208L480 224L416 240L416 208Z" fill="orange"/>
+  
+  <!-- Wings -->
+  <path d="M240 192C240 192 144 128 128 208C112 288 192 288 240 256" fill="#333333"/>
+  <path d="M240 320C240 320 144 384 128 304C112 224 192 224 240 256" fill="#333333"/>
+  
+  <!-- Tail -->
+  <path d="M128 256L48 192L48 320L128 256Z" fill="#222222"/>
+  
+  <!-- Feet -->
+  <rect x="240" y="352" width="16" height="32" fill="orange"/>
+  <rect x="272" y="352" width="16" height="32" fill="orange"/>
+</svg>
