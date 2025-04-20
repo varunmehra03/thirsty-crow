@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base stone shape -->
+  <path d="M128 192L192 128L320 128L384 192L384 320L320 384L192 384L128 320L128 192Z" fill="#777777"/>
+  
+  <!-- Highlights and shading -->
+  <path d="M192 128L320 128L384 192L320 256L192 256L128 192L192 128Z" fill="#999999"/>
+  <path d="M128 192L192 256L192 384L128 320L128 192Z" fill="#555555"/>
+  <path d="M320 256L384 192L384 320L320 384L320 256Z" fill="#666666"/>
+  
+  <!-- Surface texture -->
+  <circle cx="200" cy="200" r="16" fill="#666666"/>
+  <circle cx="240" cy="240" r="12" fill="#555555"/>
+  <circle cx="300" cy="180" r="10" fill="#888888"/>
+  <circle cx="220" cy="300" r="14" fill="#444444"/>
+  <circle cx="320" cy="320" r="16" fill="#555555"/>
+  <circle cx="160" cy="280" r="8" fill="#666666"/>
+</svg>
